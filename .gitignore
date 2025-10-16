@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+datasets/
+*.csv
+*.xlsx
+*.pkl
+*.log
+*.tmp
+
